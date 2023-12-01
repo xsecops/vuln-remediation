@@ -1,2 +1,2 @@
 # vuln-remediation
-Vulnerability remediation scripts to use for security automation
+A collection of vulnerability remediation scripts to use for security automation
